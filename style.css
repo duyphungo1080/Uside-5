@@ -946,7 +946,7 @@ ul {
   }
 
   .section-main-title {
-    font-size: 22px;
+    font-size: 24px;
   }
 
   .section-tag {
@@ -955,7 +955,7 @@ ul {
 
   .gallery-grid {
     flex-direction: column;
-    gap: 24px;
+    gap: 35px;
   }
 
   .gallery-item-1,
