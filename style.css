@@ -965,7 +965,7 @@ ul {
   .gallery-item-3 img,
   .gallery-item-4 img, 
   .gallery-item-5 img,
-  .gallery-item-6 {
+  .gallery-item-6 img {
     max-height: 280px;
     aspect-ratio: 16 / 9;
   }
@@ -998,6 +998,30 @@ ul {
   .packages-footer-note {
     font-size: 16px;
     margin-top: 24px;
+  }
+
+  .feedback-box {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .feedback-box img {
+    width: 100%;
+  }
+  
+  .feedback-box-reverse {
+    flex-direction: column-reverse;
+  }
+
+  .feedback-text {
+    font-size: 12px;
+    gap: 8px;
+  }
+
+  .feedback-button {
+    font-size: 10px;
+    padding: 2px 8px;
   }
 
   .contact-section {
