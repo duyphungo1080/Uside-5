@@ -597,7 +597,7 @@ ul {
 }
 
 .feedback-box img {
-  width: 500px;
+  width: 35%;
   border-radius: 8px;
 }
 
@@ -611,6 +611,7 @@ ul {
 
 .feedback-text-top {
   display: flex;
+  flex-wrap: wrap;
   gap: 10px;
 }
 
