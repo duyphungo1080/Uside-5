@@ -643,6 +643,9 @@ ul {
 }
 
 .contact-form-col {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
   flex: 1;
 }
 
@@ -943,7 +946,11 @@ ul {
   }
 
   .section-main-title {
-    font-size: 32px;
+    font-size: 22px;
+  }
+
+  .section-tag {
+    font-size: 12px;
   }
 
   .gallery-grid {
@@ -1015,12 +1022,12 @@ ul {
   }
 
   .feedback-text {
-    font-size: 13px;
+    font-size: 15px;
     gap: 8px;
   }
 
   .feedback-button {
-    font-size: 11px;
+    font-size: 12px;
     padding: 2px 8px;
   }
 
