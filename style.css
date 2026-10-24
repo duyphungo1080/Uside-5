@@ -996,7 +996,7 @@ ul {
   }
 
   .packages-footer-note {
-    font-size: 16px;
+    font-size: 14px;
     margin-top: 24px;
   }
 
@@ -1015,12 +1015,12 @@ ul {
   }
 
   .feedback-text {
-    font-size: 12px;
+    font-size: 13px;
     gap: 8px;
   }
 
   .feedback-button {
-    font-size: 10px;
+    font-size: 11px;
     padding: 2px 8px;
   }
 
